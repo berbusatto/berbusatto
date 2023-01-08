@@ -2,7 +2,7 @@
 
 
 
-- Me chamo Bernardo Busatto, fui professor de Sociologia, Pensamento Computacional e Laboratório de Robótica e estou em transição de carreira, cursando Análise e Desenvolvimento de Sistemas.
+- Me chamo Bernardo Busatto, até 2022 fui professor de Sociologia, Pensamento Computacional e Laboratório de Robótica e estou em transição de carreira, cursando Análise e Desenvolvimento de Sistemas.
 
 - Meu principal interesse é o desenvolvimento back-end. No momento estou aprendendo em PHP/Laravel, mas também já sei como fazer com Java/SpringBoot e um pouco em JS/Node.
 
