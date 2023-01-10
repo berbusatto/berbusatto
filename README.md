@@ -8,7 +8,7 @@
 
 - Alguns repositórios são de aulas práticas e projetos das disciplinas da faculdade e alguns outros são projetos que desenvolvi paralelamente, acompanhando tutoriais de youtube ou desenvolvendo alguma ideia.
 
-- Aos colegas da faculdade que estão com alguma dúvida, sintam-se a vontade para me perguntar que eu terei prazer em ajudar, ou vocês podem clonar os repositórios para encontrar as soluções que precisam por conta própria. 
+- Aos colegas da faculdade que estão com alguma dúvida, sintam-se a vontade para me perguntar que eu terei prazer em ajudar, ou para clonar os repositórios e encontrar as soluções que precisam por conta própria. 
 
 :v::v::v:
 
