@@ -10,7 +10,6 @@
 
 - Aos colegas da faculdade que estão com alguma dúvida, sintam-se a vontade para me perguntar que eu terei prazer em ajudar, ou para clonar os repositórios e encontrar as soluções que precisam por conta própria. 
 
-:v::v::v:
 
 
 
