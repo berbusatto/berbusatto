@@ -6,7 +6,7 @@
 
 - Não tenho medo de mensagens de erro e muito menos de debugar código. Inclusive, gosto de ajudar meus colegas que estão com problema durante a realização de algumas atividades. 
 
-- As tecnologias que utilizo no momento são PHP(com ou sem Laravel) e Java(com ou sem SpringBoot e Hibernate), porém ja fiz um projeto com Javascript e Node.
+- As tecnologias que utilizo no momento são PHP(com ou sem Laravel) e Java(com ou sem SpringBoot e Hibernate), além disso, ja fiz um projeto com Javascript e Node.
 
 - Alguns repositórios são de aulas práticas e projetos das disciplinas da faculdade e alguns outros são projetos que desenvolvi paralelamente, acompanhando tutoriais de youtube ou desenvolvendo alguma ideia.
 
