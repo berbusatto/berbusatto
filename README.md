@@ -8,6 +8,8 @@
 
 - As tecnologias que utilizo no momento são PHP(com ou sem Laravel) e Java(com ou sem SpringBoot e Hibernate), além disso, ja fiz um projeto com Javascript e Node.
 
+- Em abril de 2023, integrei um projeto de monitoria em Programação Orientada a Objetos, auxiliando colegas de curso com as dificuldades que eles possam ter na disciplina. 
+
 - Alguns repositórios são de aulas práticas e projetos das disciplinas da faculdade e alguns outros são projetos que desenvolvi paralelamente, acompanhando tutoriais de youtube ou desenvolvendo alguma ideia.
 
 - Aos colegas da faculdade que estão com alguma dúvida, sintam-se a vontade para me perguntar que eu terei prazer em ajudar, ou para clonar os repositórios e encontrar as soluções que precisam por conta própria. 
