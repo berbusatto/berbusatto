@@ -2,7 +2,7 @@
 
 - Me chamo Bernardo Busatto e sou desenvolvedor de sistemas. Em 2021, após lecionar Sociologia por 7 anos, comecei a minha jornada como programador. No entanto, minha relação com computadores sempre foi íntima desde a adolescência. Linhas de comando, manutenção, instalação de ambientes e solução de problemas relacionados à softwares são algumas das habilidades que desenvolvi durante esses mais de 20 anos de computação. Mesmo quando estudei Sociologia, não deixei a Tecnologia da Informação de lado, tanto que meus trabalhos de conclusão de curso da graduação e de uma das pós-graduações que realizei foram no campo da Sociologia da Internet e Comunicação, estudando a cultura hacker e posteriormente os impactos do big data na sociedade contemporânea.
 
-- Meu principal interesse no momento é o desenvolvimento web. Tenho mais facilidade e interesse em trabalhar com o back-end no entanto estou buscando aprimorar minhas habilidades no front-end visando me tornar profissional mais completo. 
+- Meu principal interesse no momento é o desenvolvimento web. Tenho mais facilidade e interesse em trabalhar com o back-end no entanto estou buscando aprimorar minhas habilidades no front-end visando me tornar profissional mais completo capaz de agregar mais valor aos produtos que trabalho, auxuliando na resolução dos mais diversos problemas.
 
 - Não tenho medo de mensagens de erro e muito menos de debugar código. Inclusive, gosto de ajudar meus colegas que estão com problema durante a realização de algumas atividades. 
 
