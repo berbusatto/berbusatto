@@ -2,13 +2,13 @@
 
 - Me chamo Bernardo Busatto e sou desenvolvedor de sistemas. Em 2021, após lecionar Sociologia por 7 anos, comecei a minha jornada como programador. No entanto, minha relação com computadores sempre foi íntima desde a adolescência. Linhas de comando, manutenção, instalação de ambientes e solução de problemas relacionados à softwares são algumas das habilidades que desenvolvi durante esses mais de 20 anos de computação. Mesmo quando estudei Sociologia, não deixei a Tecnologia da Informação de lado, tanto que meus trabalhos de conclusão de curso da graduação e de uma das pós-graduações que realizei foram no campo da Sociologia da Internet e Comunicação, estudando a cultura hacker e posteriormente os impactos do big data na sociedade contemporânea.
 
-- Meu principal interesse no momento é o desenvolvimento web. Tenho mais facilidade e interesse em trabalhar com o back-end no entanto estou buscando aprimorar minhas habilidades no front-end visando me tornar profissional mais completo capaz de agregar mais valor aos produtos que trabalho, auxuliando na resolução dos mais diversos problemas.
+- Atualmente estou no último período de Análise e Desenvolvimento de Sistemas. Meu principal interesse no momento é o desenvolvimento web. Tenho mais facilidade e interesse em trabalhar com o back-end entretanto estou buscando aprimorar minhas habilidades no front-end visando me tornar profissional mais completo capaz de agregar mais valor aos produtos nos quais trabalho, auxuliando na resolução de problemas mais diversificados.
 
 - Não tenho medo de mensagens de erro e muito menos de debugar código. Inclusive, gosto de ajudar meus colegas que estão com problema durante a realização de algumas atividades. 
 
 - As tecnologias que utilizo no momento são PHP(com ou sem Laravel) e Java(com ou sem SpringBoot e Hibernate), além disso, ja fiz um projeto com Javascript e Node.
 
-- Em abril de 2023, integrei um projeto de monitoria em Programação Orientada a Objetos, auxiliando colegas de curso com as dificuldades que eles possam ter na disciplina. 
+- Em abril de 2023, passei a integrar um projeto de monitoria na faculdade em que eu estudo (Senac/PR) em Programação Orientada a Objetos, auxiliando colegas de curso com as dificuldades que eles possam ter durante a disciplina. 
 
 - Alguns repositórios são de aulas práticas e projetos das disciplinas da faculdade e alguns outros são projetos que desenvolvi paralelamente, acompanhando tutoriais de youtube ou desenvolvendo alguma ideia.
 
