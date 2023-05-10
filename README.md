@@ -1,4 +1,4 @@
-# Olá, seja bem vindo(a)(e)!
+# Olá!
 
 - Me chamo Bernardo Busatto e sou desenvolvedor de sistemas. Em 2021, após lecionar Sociologia por 7 anos, comecei a minha jornada como programador. No entanto, minha relação com computadores sempre foi íntima desde a adolescência. Linhas de comando, manutenção, instalação de ambientes e solução de problemas relacionados à softwares são algumas das habilidades que desenvolvi durante esses mais de 20 anos de computação. Mesmo quando estudei Sociologia, não deixei a Tecnologia da Informação de lado, tanto que meus trabalhos de conclusão de curso da graduação e de uma das pós-graduações que realizei foram no campo da Sociologia da Internet e Comunicação, estudando a cultura hacker e posteriormente os impactos do big data na sociedade contemporânea.
 
