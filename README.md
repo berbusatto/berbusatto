@@ -1,24 +1,23 @@
-# Olá!
+# 🌟  Bem-vindo ao meu Perfil! 🌟 
 
-- Me chamo Bernardo Busatto e sou desenvolvedor de sistemas. Em 2021, após lecionar Sociologia por 7 anos, comecei a minha jornada como programador. No entanto, minha relação com computadores sempre foi íntima desde a adolescência. Linhas de comando, manutenção, instalação de ambientes e solução de problemas relacionados à softwares são algumas das habilidades que desenvolvi durante esses mais de 20 anos de computação. Mesmo quando estudei Sociologia, não deixei a Tecnologia da Informação de lado, tanto que meus trabalhos de conclusão de curso da graduação e de uma das pós-graduações que realizei foram no campo da Sociologia da Internet e Comunicação, estudando a cultura hacker e posteriormente os impactos do big data na sociedade contemporânea.
+Olá, me chamo Bernardo Busatto e sou desenvolvedor de sistemas.
 
-- Atualmente estou no último período de Análise e Desenvolvimento de Sistemas. Meu principal interesse no momento é o desenvolvimento web. Tenho mais facilidade e interesse em trabalhar com o back-end entretanto estou buscando aprimorar minhas habilidades no front-end visando me tornar profissional mais completo capaz de agregar mais valor aos produtos nos quais trabalho, auxuliando na resolução de problemas mais diversificados.
+## 🔧 Habilidades e Interesses
 
-- Não tenho medo de mensagens de erro e muito menos de debugar código. Inclusive, gosto de ajudar meus colegas que estão com problema durante a realização de algumas atividades. 
-
-- As tecnologias que utilizo no momento são PHP(com ou sem Laravel) e Java(com ou sem SpringBoot e Hibernate), além disso, ja fiz um projeto com Javascript e Node.
-
-- Em abril de 2023, passei a integrar um projeto de monitoria na faculdade em que eu estudo (Senac/PR) em Programação Orientada a Objetos, auxiliando colegas de curso com as dificuldades que eles possam ter durante a disciplina. 
-
-- Alguns repositórios são de aulas práticas e projetos das disciplinas da faculdade e alguns outros são projetos que desenvolvi paralelamente, acompanhando tutoriais de youtube ou desenvolvendo alguma ideia.
-
-- Aos colegas da faculdade que estão com alguma dúvida, sintam-se a vontade para me perguntar que eu terei prazer em ajudar, ou para clonar os repositórios e encontrar as soluções que precisam por conta própria. 
+- 💻 Desenvolvedor de sistemas com foco em desenvolvimento web.
+- 🕰️ Graduado em Licenciatura em Sociologia na PUC/PR (2015).
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas no Senac/PR (2023).
+- 🏗️ Experiência em back-end com Java e PHP.
+- 🎨 Explorando o mundo do front-end para me tornar um profissional mais completo.
+- 🐞 Sem medo de mensagens de erro, adoro a emoção de debugar código.
+- 🗣️ Comunicativo, curioso, didático e disposto a ajudar.
 
 
+## 🚀 Projetos e Contribuições
+
+- 👨‍🏫 Monitor de Programação Orientada a Objetos no Senac/PR em 2023, auxiliando colegas com dificuldades.
+- 📚 Trabalhos acadêmicos explorando a interseção entre Sociologia e Tecnologia da Informação.
+- 🛠️ Projetos pessoais e repositórios de exercícios para aprendizado contínuo.
+- 👥 Sempre disposto a colaborar com colegas e a comunidade.
 
 
-
-<!---
-berbusatto/berbusatto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
